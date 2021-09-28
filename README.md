@@ -16,7 +16,7 @@
 :x: 提高您的网速\
 :x: 保证一定可以抢到课
 
-## 系统环境测试程度
+## 系统环境支持程度
 最佳支持：Window 10\
 :heavy_check_mark:Windows\
 :x: Linux\
