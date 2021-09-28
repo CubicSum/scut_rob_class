@@ -53,11 +53,11 @@
 1. 开启邮件提示后，可使程序完成抢课后发送邮件进行提示（未处理配置错误的情况，出错无法发送邮件）
 
 ### 运行截图
-<div align=center><img width=70% src="./img/img_1.png"/></div>
+<div align=center><img width=90% src="./img/img_1.png"/></div>
 <p align="center">登录刷新课程，并加入队列</p>
-<div align=center><img width=70% src="./img/img_2.png"/></div>
+<div align=center><img width=90% src="./img/img_2.png"/></div>
 <p align="center">抢2门课（有余量、无余量各一门）</p>
-<div align=center><img src="./img/img_3.png"/></div>
+<div align=center><img width=90% src="./img/img_3.png"/></div>
 <p align="center">邮件提示</p>
 
 ## 抢课说明
